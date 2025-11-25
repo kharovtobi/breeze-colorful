@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="network-connect (1).svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="true"
+     inkscape:zoom="51.4375"
+     inkscape:cx="8.0291616"
+     inkscape:cy="8.0388821"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14902"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs3051">
+    <style
+       type="text/css"
+       id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#232629;
+      }
+      </style>
+  </defs>
+  <path
+     style="fill:currentColor;fill-opacity:1;stroke:none"
+     d="m 13.300781,2 -2.65039,2.6503906 -1.0644535,-1.0644531 -6,6 L 4.6503906,10.650391 2,13.300781 2.6992188,14 5.3496094,11.349609 6.4140625,12.414062 12.414062,6.4140625 11.349609,5.3496094 14,2.6992188 Z m -5.1067002,11.893959 3.6641932,0.04729 1.988352,0.02566"
+     class="ColorScheme-Text"
+     id="path1"
+     sodipodi:nodetypes="cccccccccccccccc" />
+  <path
+     style="color:#3daee9;fill:currentColor;fill-opacity:1;stroke:none"
+     d="m 11.5,9 c -1.380715,-8.3e-6 -2.5000083,1.119285 -2.5,2.5 -8.3e-6,1.380715 1.119285,2.500008 2.5,2.5 1.380715,8e-6 2.500008,-1.119285 2.5,-2.5 8e-6,-1.380715 -1.119285,-2.5000083 -2.5,-2.5"
+     class="ColorScheme-Accent"
+     id="path2"
+     sodipodi:nodetypes="ccccc" />
+</svg>
