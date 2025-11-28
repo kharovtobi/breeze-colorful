@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64"
+   version="1.1"
+   height="64"
+   id="svg1"
+   sodipodi:docname="floppy.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="true"
+     inkscape:zoom="16"
+     inkscape:cx="36.90625"
+     inkscape:cy="24.03125"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs5455">
+    <linearGradient
+       id="c"
+       x2="0"
+       y1="543.79999"
+       y2="503.79999"
+       gradientTransform="matrix(1.65625,0,0,1.4722222,-641.24779,-739.64998)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#c6cdd1"
+         offset="0"
+         id="stop1" />
+      <stop
+         stop-color="#e0e5e7"
+         offset="1"
+         id="stop2" />
+    </linearGradient>
+    <linearGradient
+       id="b"
+       x1="398.57001"
+       x2="416.57001"
+       y1="513.79999"
+       y2="531.79999"
+       gradientTransform="matrix(1.4722222,0,0,1.4722222,-580.18883,-744.06667)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#292c2f"
+         offset="0"
+         id="stop3" />
+      <stop
+         stop-opacity="0"
+         offset="1"
+         id="stop4" />
+    </linearGradient>
+  </defs>
+  <metadata
+     id="metadata5458" />
+  <path
+     d="M 6,5.0000001 H 54.583332 L 59,9.4166668 V 58 H 6 Z"
+     fill="url(#c)"
+     id="path4"
+     style="fill:url(#c);stroke-width:1.47223" />
+  <rect
+     transform="rotate(-90)"
+     x="-58"
+     y="6"
+     width="2"
+     height="53"
+     fill="#737b81"
+     stroke-opacity="0.55"
+     stroke-width="4.55805"
+     id="rect4" />
+  <rect
+     transform="rotate(-90)"
+     x="-54"
+     y="54"
+     width="5"
+     height="3"
+     fill="#4c5154"
+     stroke-width="0.111804"
+     id="rect5" />
+  <rect
+     x="55"
+     y="50"
+     width="1"
+     height="3"
+     fill="#eef1f2"
+     id="rect12"
+     style="stroke-width:1.22475" />
+  <path
+     d="M 50,5.0000001 15,23 48.694444,58 H 59 V 13.833333 Z"
+     fill="url(#b)"
+     fill-rule="evenodd"
+     opacity="0.2"
+     id="path5"
+     style="fill:url(#b);stroke-width:1.47223"
+     sodipodi:nodetypes="cccccc" />
+  <g
+     transform="matrix(1.4583333,0,0,1.5,0.41666667,-4)"
+     id="g6">
+    <rect
+       x="10"
+       y="6"
+       width="24"
+       height="12"
+       fill="#4c5154"
+       id="rect6" />
+    <path
+       d="M 14,6 V 18 H 34 V 6 Z m 13,2 h 4 v 8 h -4 z"
+       fill="#eef1f2"
+       id="path6" />
+  </g>
+  <rect
+     transform="rotate(-90)"
+     x="-53"
+     y="15"
+     width="19"
+     height="29"
+     fill="#abb9be"
+     stroke-opacity="0.55"
+     stroke-width="4.07612"
+     id="rect7" />
+  <g
+     transform="matrix(0,1.5454545,-1.5,0,70,-90.181816)"
+     stroke-width="0.1"
+     id="g12">
+    <rect
+       transform="rotate(-90)"
+       x="-36"
+       y="81"
+       width="18"
+       height="11"
+       fill="#fdbc4a"
+       id="rect8" />
+    <g
+       fill="#ffffff"
+       id="g11">
+      <rect
+         transform="rotate(-90)"
+         x="-34"
+         y="86.823532"
+         width="8"
+         height="1.2941177"
+         id="rect9"
+         style="stroke-width:0.113759" />
+      <rect
+         transform="rotate(-90)"
+         x="-34"
+         y="88.764709"
+         width="6"
+         height="1.2941177"
+         id="rect10"
+         style="stroke-width:0.113759" />
+      <rect
+         transform="rotate(-90)"
+         x="-34"
+         y="84.882355"
+         width="11.333333"
+         height="1.2941177"
+         id="rect11"
+         style="stroke-width:0.11547" />
+    </g>
+  </g>
+</svg>
