@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   id="svg859"
+   id="svg6"
    version="1.1"
-   viewBox="0 0 16 16"
-   sodipodi:docname="zoom-original (1).svg"
+   viewBox="0 0 22 22"
+   sodipodi:docname="vm-snapshot-autoprotect-keep.svg"
    inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -19,15 +19,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="true"
-     inkscape:zoom="45.254834"
-     inkscape:cx="1.9997864"
-     inkscape:cy="7.8555144"
+     inkscape:zoom="32"
+     inkscape:cx="14.765625"
+     inkscape:cy="13.234375"
      inkscape:window-width="1920"
      inkscape:window-height="1008"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg859">
+     inkscape:current-layer="svg6">
     <inkscape:grid
        id="grid1"
        units="px"
@@ -51,14 +51,17 @@
         .ColorScheme-Text {            color:#232629;        }
     </style>
   </defs>
-  <g
-     id="layer1">
-    <path
-       id="path289"
-       d="M 2,2 V 6 H 6 L 4.4804688,4.4804688 C 5.4116086,3.5408263 6.6771707,3.0084755 8,3 c 2.761424,0 5,2.2385763 5,5 0,2.761424 -2.238576,5 -5,5 C 5.2385763,13 3,10.761424 3,8 H 2 c 0,3.313708 2.6862915,6 6,6 3.300739,0 6,-2.692154 6,-6 C 14,4.6862915 11.313708,2 8,2 6.4111741,2.0064502 4.8897737,2.6428254 3.7695312,3.7695312 Z"
-       class="ColorScheme-Text"
-       fill="currentColor"
-       style="paint-order:markers stroke fill"
-       sodipodi:nodetypes="cccccssccccccc" />
-  </g>
+  <path
+     id="path347"
+     d="M 18.936139,12 C 18.978267,11.670123 19,11.340784 19,11 19,6.581722 15.418278,3 11,3 8.8827575,3.0117013 6.8564955,3.8622397 5.3652344,5.3652344 L 3,3 V 9 H 9 L 6.0605469,6.0605469 C 7.3690934,4.7465357 9.1455756,4.0054567 11,4 c 3.865993,0 7,3.1340068 7,7 0,0.342138 -0.0246,0.670993 -0.07213,1 z M 12,17.928258 C 11.671503,17.975534 11.341583,18 11,18 7.1340068,18 4,14.865993 4,11 H 3 c 0,4.418278 3.581722,8 8,8 0.335502,0 0.674479,-0.02124 1,-0.06246 z"
+     class="ColorScheme-Text"
+     fill="currentColor"
+     stroke-linecap="square"
+     stroke-width="2"
+     style="paint-order:markers stroke fill"
+     sodipodi:nodetypes="cccccccccscccsccccc" />
+  <path
+     id="path1"
+     style="fill:#2ecc71;fill-rule:evenodd;stroke-miterlimit:0;paint-order:stroke fill markers;fill-opacity:1"
+     d="m 18.5,15.5 a 3,3 0 0 1 -3,3 3,3 0 0 1 -3,-3 3,3 0 0 1 3,-3 3,3 0 0 1 3,3 z" />
 </svg>

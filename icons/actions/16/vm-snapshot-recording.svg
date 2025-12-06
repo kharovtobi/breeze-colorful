@@ -3,7 +3,7 @@
    id="svg859"
    version="1.1"
    viewBox="0 0 16 16"
-   sodipodi:docname="zoom-original (1).svg"
+   sodipodi:docname="vm-snapshot-recording.svg"
    inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -19,15 +19,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="true"
-     inkscape:zoom="45.254834"
-     inkscape:cx="1.9997864"
-     inkscape:cy="7.8555144"
+     inkscape:zoom="32"
+     inkscape:cx="9.953125"
+     inkscape:cy="13.109375"
      inkscape:window-width="1920"
      inkscape:window-height="1008"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg859">
+     inkscape:current-layer="layer1">
     <inkscape:grid
        id="grid1"
        units="px"
@@ -53,12 +53,18 @@
   </defs>
   <g
      id="layer1">
+    <circle
+       style="fill:#da4453;fill-opacity:1;fill-rule:evenodd;stroke-miterlimit:0;paint-order:stroke fill markers"
+       id="path1"
+       cy="11.5"
+       cx="11.5"
+       r="2" />
     <path
        id="path289"
-       d="M 2,2 V 6 H 6 L 4.4804688,4.4804688 C 5.4116086,3.5408263 6.6771707,3.0084755 8,3 c 2.761424,0 5,2.2385763 5,5 0,2.761424 -2.238576,5 -5,5 C 5.2385763,13 3,10.761424 3,8 H 2 c 0,3.313708 2.6862915,6 6,6 3.300739,0 6,-2.692154 6,-6 C 14,4.6862915 11.313708,2 8,2 6.4111741,2.0064502 4.8897737,2.6428254 3.7695312,3.7695312 Z"
+       d="M 13.915509,9.0042319 C 13.971057,8.6776043 14,8.3420947 14,8 14,4.6862915 11.313708,2 8,2 6.4111741,2.0064502 4.8897737,2.6428254 3.7695312,3.7695312 L 2,2 V 6 H 6 L 4.4804688,4.4804688 C 5.4116086,3.5408263 6.6771707,3.0084755 8,3 c 2.761424,0 5,2.2385763 5,5 0,0.3417898 -0.03426,0.6774834 -0.09953,1 z M 9,12.900355 C 8.6774609,12.9657 8.3418153,13 8,13 5.2385763,13 3,10.761424 3,8 H 2 c 0,3.313708 2.6862915,6 6,6 0.3424074,0 0.6728787,-0.02898 1,-0.0846 z"
        class="ColorScheme-Text"
        fill="currentColor"
        style="paint-order:markers stroke fill"
-       sodipodi:nodetypes="cccccssccccccc" />
+       sodipodi:nodetypes="cccccccccscccsccccc" />
   </g>
 </svg>
