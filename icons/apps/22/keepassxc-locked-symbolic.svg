@@ -20,7 +20,7 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="true"
      inkscape:zoom="32"
-     inkscape:cx="11.125"
+     inkscape:cx="11.109375"
      inkscape:cy="10.390625"
      inkscape:window-width="1920"
      inkscape:window-height="1008"
@@ -64,11 +64,6 @@
      d="m 8,8 c 0,-1.8 1.5,-3 3,-3 1.9,0 3,1.6 3,3 0,1.9 -1.5,2.75 -2,2.9 V 16 l -1,1 -1,-1 V 15 L 10.5,14.5 10,14 10.5,13.5 10,13 10.5,12.5 10,12 V 10.9 C 9.4,10.6 8,9.75 8,8 Z m 4,-1 c 0,0.675 -0.5,1 -1,1 -0.5,0 -1,-0.325 -1,-1 0,-0.75 0.5,-1 1,-1 0.5,0 1,0.325 1,1 z"
      id="path3"
      sodipodi:nodetypes="cssccccccccccccccscsc" />
-  <path
-     style="display:none;opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:2"
-     d="M 11,6 12,7 11,8 10,7 Z"
-     id="path2"
-     sodipodi:nodetypes="ccccc" />
   <path
      class="ColorScheme-Text"
      id="path5158"
