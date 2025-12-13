@@ -19,9 +19,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="true"
-     inkscape:zoom="45.254834"
-     inkscape:cx="9.5790872"
-     inkscape:cy="10.750233"
+     inkscape:zoom="52.840161"
+     inkscape:cx="13.389437"
+     inkscape:cy="9.3300245"
      inkscape:window-width="1920"
      inkscape:window-height="1008"
      inkscape:window-x="0"
@@ -46,20 +46,21 @@
   <defs
      id="defs3051">
     <style
-       id="current-color-scheme"
-       type="text/css">
+       type="text/css"
+       id="current-color-scheme">
       .ColorScheme-Text {
         color:#232629;
       }
       </style>
   </defs>
   <path
-     style="fill:#31363b;fill-opacity:1"
-     d="M 11 3 A 8 8 0 0 0 3 11 A 8 8 0 0 0 11 19 A 8 8 0 0 0 19 11 A 8 8 0 0 0 11 3 z M 11 4 A 7 7 0 0 1 18 11 A 7 7 0 0 1 11 18 A 7 7 0 0 1 4 11 A 7 7 0 0 1 11 4 z "
+     style="fill:currentColor;fill-opacity:1;stroke:none"
+     d="m 11,3 c -4.431998,0 -8,3.568002 -8,8 0,4.431998 3.568002,8 8,8 4.431998,0 8,-3.568002 8,-8 0,-4.431998 -3.568002,-8 -8,-8 m 0,1 c 3.877999,0 7,3.122001 7,7 0,3.877999 -3.122001,7 -7,7 C 7.122001,18 4,14.877999 4,11 4,7.122001 7.122001,4 11,4"
      class="ColorScheme-Text"
-     id="path1" />
+     id="path1"
+     sodipodi:nodetypes="csssccsssc" />
   <path
-     style="display:inline;fill:#31363b;fill-opacity:1;fill-rule:evenodd;stroke-width:2"
+     style="display:inline;fill:#232629;fill-opacity:1;fill-rule:evenodd;stroke-width:2"
      d="m 8,8 c 0,-1.8 1.5,-3 3,-3 1.9,0 3,1.6 3,3 0,1.9 -1.5,2.75 -2,2.9 V 16 l -1,1 -1,-1 V 15 L 10.5,14.5 10,14 10.5,13.5 10,13 10.5,12.5 10,12 V 10.9 C 9.4,10.6 8,9.75 8,8 Z m 4,-1 c 0,0.675 -0.5,1 -1,1 -0.5,0 -1,-0.325 -1,-1 0,-0.75 0.5,-1 1,-1 0.5,0 1,0.325 1,1 z"
      id="path3"
      sodipodi:nodetypes="cssccccccccccccccscsc" />
