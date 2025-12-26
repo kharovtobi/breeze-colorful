@@ -19,9 +19,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="true"
-     inkscape:zoom="102.875"
-     inkscape:cx="7.4021869"
-     inkscape:cy="8.3839609"
+     inkscape:zoom="51.4375"
+     inkscape:cx="5.2588092"
+     inkscape:cy="7.6111786"
      inkscape:window-width="1920"
      inkscape:window-height="1008"
      inkscape:window-x="0"
@@ -55,6 +55,6 @@
   </defs>
   <path
      id="path3"
-     style="fill:#31363b;fill-rule:evenodd;stroke-miterlimit:0;paint-order:stroke fill markers;fill-opacity:1"
+     style="fill:#232629;fill-rule:evenodd;stroke-miterlimit:0;paint-order:stroke fill markers;fill-opacity:1"
      d="M 8 2 C 4.6862949 2 2.0000047 4.6862901 2 8 C 2.0000047 11.31371 4.6862949 14 8 14 C 11.313705 14 13.999995 11.31371 14 8 C 13.999995 4.6862901 11.313705 2 8 2 z M 8 3 C 10.761424 3 13 5.2385763 13 8 C 13 10.761424 10.761424 13 8 13 C 5.2385763 13 3 10.761424 3 8 C 3 5.2385763 5.2385763 3 8 3 z M 8 4 C 5.790861 4 4 5.790861 4 8 C 4 10.209139 5.790861 12 8 12 C 10.209139 12 12 10.209139 12 8 C 12 5.790861 10.209139 4 8 4 z M 8 5 C 9.6186037 5 11 6.3008688 11 8 C 11 9.6991312 9.6186037 11 8 11 C 6.3813963 11 5 9.6991312 5 8 C 5 6.3008688 6.3813963 5 8 5 z M 8 6 A 2 2 0 0 0 6 8 A 2 2 0 0 0 8 10 A 2 2 0 0 0 10 8 A 2 2 0 0 0 8 6 z " />
 </svg>
