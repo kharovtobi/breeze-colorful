@@ -3,8 +3,8 @@
    viewBox="0 0 16 16"
    version="1.1"
    id="svg1"
-   sodipodi:docname="vmware-disabled.svg"
-   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   sodipodi:docname="chip.svg"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -19,9 +19,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="true"
-     inkscape:zoom="102.875"
-     inkscape:cx="11.922235"
-     inkscape:cy="11.027946"
+     inkscape:zoom="22.627417"
+     inkscape:cx="3.9111844"
+     inkscape:cy="13.457126"
      inkscape:window-width="1920"
      inkscape:window-height="1008"
      inkscape:window-x="0"
@@ -54,13 +54,9 @@
       </style>
   </defs>
   <path
-     style="color:#da4453;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.75"
-     class="ColorScheme-NegativeText"
-     d="M 8.75,8 C 8.3345,8 8,8.3345 8,8.75 v 4.5 C 8,13.6655 8.3345,14 8.75,14 h 4.5 C 13.6655,14 14,13.6655 14,13.25 V 8.75 C 14,8.3345 13.6655,8 13.25,8 Z"
-     id="path1-7" />
-  <path
-     d="M 9.5000001,8.75 8.75,9.5000002 10.25,10.999999 8.75,12.5 9.5000001,13.25 11,11.75 l 1.5,1.5 0.75,-0.75 -1.5,-1.500001 1.5,-1.4999988 L 12.5,8.75 11,10.25 Z"
-     fill="#ffffff"
-     id="path2"
-     style="stroke-width:0.75" />
+     id="path1"
+     style="fill:currentColor;fill-opacity:1;stroke:none"
+     class="ColorScheme-Text"
+     d="m 2,5 v 6 H 14 V 5 Z m 1,1 h 10 v 4 H 3 Z m 10,7 v -2 h -1 v 2 z M 4,13 V 11 H 3 v 2 z m 3,0 V 11 H 6 v 2 z m 3,0 V 11 H 9 v 2 z M 13,5 V 3 H 12 V 5 Z M 10,5 V 3 H 9 V 5 Z M 7,5 V 3 H 6 V 5 Z M 4,5 V 3 H 3 v 2 z"
+     sodipodi:nodetypes="cccccccccc" />
 </svg>
