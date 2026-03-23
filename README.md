@@ -1,10 +1,10 @@
 # Breeze Colorful
 
-Breeze Colorful is a [freedesktop.org compatible](https://specifications.freedesktop.org/icon-theme-spec/latest/) icon theme. It is developed by the KDE Community, and now other users on GitHub to add more icons that is deleted from upstream or add missing icons or to make apps look nice using system theme.
+Breeze Colorful is a [freedesktop.org compatible](https://specifications.freedesktop.org/icon-theme-spec/latest/) icon theme. It is developed by the KDE Community, and now other users on GitHub to add more icons that is deleted from upstream, add missing icons or to make apps look nice using system theme.
 
 It uses Breeze Icons as a fork to avoid icon override (you may need to reinstall or use local version).
 
-Recommended to not use Breeze Dark version (some icons don't go white)
+Recommended to not use Breeze Dark version as some icons don't go white.
 
 You can browse the icons on your system using Icon Explorer from the Plasma SDK.
 
@@ -14,14 +14,18 @@ You can browse the icons on your system using Icon Explorer from the Plasma SDK.
 
 [X] [Add Breeze Plus](https://github.com/mjkim0727/breeze-plus)
 
-[ ] Add Breeze Extended (maybe?)
+[/] Add Breeze Extended
 
-[ ] Add VMware icons
+[/] Add VMware icons
 
-[ ] Add qBittorrent icons
+[X] Add qBittorrent icons
 
 [X] Add Flash icons
 
 [X] [Add osu! mimetypes](https://osu.ppy.sh/wiki/en/Client/File_formats#list-of-file-formats)
+
+[ ] Add main Java icons
+
+[ ] Add new mimetypes for existing ones
 
 and more I think?
