@@ -17,3 +17,4 @@ xmlerrors
 .idea
 /cmake-build*
 .cache
+ (*).svg
