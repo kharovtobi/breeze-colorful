@@ -24,8 +24,10 @@ You can browse the icons on your system using Icon Explorer from the Plasma SDK.
 
 [X] [Add osu! mimetypes](https://osu.ppy.sh/wiki/en/Client/File_formats#list-of-file-formats)
 
-[ ] Add main Java icons
+[-] Add main Java icons
 
-[ ] Add new mimetypes for existing ones
+[-] Add new/change mimetypes for existing ones
+
+[/] Add mimetypes for inodes
 
 and more I think?
