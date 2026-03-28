@@ -5,7 +5,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
-   sodipodi:docname="VBox.svg"
+   sodipodi:docname="virtualbox.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -50,7 +50,7 @@
      inkscape:snap-grids="true"
      inkscape:zoom="22.627417"
      inkscape:cx="31.377863"
-     inkscape:cy="26.958446"
+     inkscape:cy="26.914252"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -209,7 +209,7 @@
      id="path1"
      sodipodi:nodetypes="ccccccccccccc" />
   <rect
-     style="display:inline;opacity:0.504;fill:#1d474f;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.7393"
+     style="display:inline;opacity:0.3;fill:#1c1e20;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.7393"
      id="rect4175"
      width="40"
      height="1.0558066"
