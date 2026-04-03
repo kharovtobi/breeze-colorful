@@ -24,6 +24,8 @@ You can browse the icons on your system using Icon Explorer from the Plasma SDK.
 
 [X] [Add osu! mimetypes](https://osu.ppy.sh/wiki/en/Client/File_formats#list-of-file-formats)
 
+[/] [Add KBackup icons](https://invent.kde.org/utilities/kbackup/-/tree/master/src/pics)
+
 [-] Add main Java icons
 
 [-] Add new/change mimetypes for existing ones
