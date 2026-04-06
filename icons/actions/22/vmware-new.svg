@@ -1,61 +1,6 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   id="svg6"
-   version="1.1"
-   viewBox="0 0 22 22"
-   sodipodi:docname="vmware-new.svg"
-   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview1"
-     pagecolor="#ffffff"
-     bordercolor="#999999"
-     borderopacity="1"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     showgrid="true"
-     inkscape:zoom="45.254834"
-     inkscape:cx="12.009767"
-     inkscape:cy="4.6514368"
-     inkscape:window-width="1920"
-     inkscape:window-height="1008"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg6">
-    <inkscape:grid
-       id="grid1"
-       units="px"
-       originx="0"
-       originy="0"
-       spacingx="1"
-       spacingy="1"
-       empcolor="#0099e5"
-       empopacity="0.30196078"
-       color="#0099e5"
-       opacity="0.14902"
-       empspacing="5"
-       enabled="true"
-       visible="true" />
-  </sodipodi:namedview>
-  <defs
-     id="defs3051">
-    <style
-       type="text/css"
-       id="current-color-scheme">
-        .ColorScheme-Text {            color:#232629;        }
-    </style>
-  </defs>
-  <circle
-     style="fill:#fdbc4b;fill-rule:evenodd;stroke-miterlimit:0;paint-order:stroke fill markers"
-     id="path1"
-     cx="17.007727"
-     cy="1.6544505"
-     r="3"
-     transform="rotate(15)" />
+<svg id="svg6" version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+    <defs id="defs3051">
+        <style id="current-color-scheme" type="text/css">.ColorScheme-Text {            color:#232629;        }</style>
+    </defs>
+    <circle id="path1" transform="rotate(15)" cx="17.007727" cy="1.6544505" r="3" fill="#1d99f3" fill-rule="evenodd" stroke-miterlimit="0" style="paint-order:stroke fill markers"/>
 </svg>
