@@ -20,9 +20,9 @@
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="25.71875"
-     inkscape:cx="16"
-     inkscape:cy="16"
+     inkscape:zoom="18.185903"
+     inkscape:cx="6.2136042"
+     inkscape:cy="22.050047"
      inkscape:window-width="1920"
      inkscape:window-height="1008"
      inkscape:window-x="0"
@@ -33,27 +33,27 @@
      id="defs4">
     <linearGradient
        id="a"
-       y1="524.8"
-       x1="404.57"
-       y2="531.8"
-       x2="411.57"
-       gradientUnits="userSpaceOnUse">
+       y1="17"
+       y2="24"
+       x1="47"
+       x2="54"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(357.57 507.8)">
       <stop
-         stop-color="#383e51"
+         stop-color="#060606"
          id="stop1" />
       <stop
          offset="1"
-         stop-color="#655c6f"
          stop-opacity="0"
          id="stop2" />
     </linearGradient>
     <linearGradient
        id="b"
-       y1="546.02"
-       x1="396.48"
-       y2="517.8"
-       x2="396.54"
-       gradientUnits="userSpaceOnUse">
+       y1="392.36"
+       y2="365.36"
+       x2="0"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(309.57 152.44)">
       <stop
          stop-color="#ffffff"
          stop-opacity="0"
@@ -66,55 +66,78 @@
     </linearGradient>
     <path
        id="c"
-       d="m389.57 545.8v-28h15l7 7v21h-7z" />
+       d="m389.57 545.8v-28h15l7 7v21h-14z" />
   </defs>
   <g
      transform="translate(-384.57-515.8)"
      id="g7">
-    <use
-       fill="#d2d6d9"
-       xlink:href="#c"
-       id="use4" />
     <g
-       transform="scale(1-1)"
-       id="g5">
-      <rect
-         width="15"
-         x="389.57"
-         opacity=".5"
-         y="-518.8"
-         fill="#ffffff"
-         height="1"
-         id="rect4" />
-      <rect
-         width="22"
-         x="389.57"
-         opacity=".25"
-         y="-545.8"
-         height="1"
-         id="rect5" />
-    </g>
-    <g
-       fill-rule="evenodd"
+       color-rendering="auto"
+       color-interpolation-filters="linearRGB"
+       shape-rendering="auto"
+       image-rendering="auto"
+       color-interpolation="sRGB"
+       color="#000000"
        id="g6">
+      <use
+         fill="#555555"
+         isolation="auto"
+         solid-opacity="1"
+         mix-blend-mode="normal"
+         xlink:href="#c"
+         solid-color="#000000"
+         id="use4" />
+      <g
+         transform="scale(1-1)"
+         id="g5">
+        <rect
+           mix-blend-mode="normal"
+           solid-color="#000000"
+           opacity=".4"
+           x="389.57"
+           y="-518.8"
+           width="15"
+           isolation="auto"
+           solid-opacity="1"
+           fill="#ffffff"
+           height="1"
+           id="rect4" />
+        <rect
+           width="22"
+           x="389.57"
+           opacity=".35"
+           y="-545.8"
+           isolation="auto"
+           solid-opacity="1"
+           height="1"
+           mix-blend-mode="normal"
+           solid-color="#000000"
+           id="rect5" />
+      </g>
       <path
-         fill="#5e6b78"
+         opacity=".5"
+         fill="#ffffff"
+         isolation="auto"
+         solid-opacity="1"
+         mix-blend-mode="normal"
+         fill-rule="evenodd"
          d="m411.57 524.8l-7-7v7z"
+         solid-color="#000000"
          id="path5" />
-      <path
-         opacity=".2"
-         fill="url(#a)"
-         d="m411.57 531.8l-7-7h7z"
-         id="path6" />
     </g>
     <path
-       style="color:#232629;fill:#4b5560;fill-opacity:1;stroke:none"
-       d="m 11.5,13.5 v 9 h 9 v -9 z m 1,1 h 7 v 7 h -7 z m 0,-2.5 h 1 v 1 h -1 z m 6,0 h 1 v 1 h -1 z m -3,0 h 1 v 1 h -1 z m -3,11 h 1 v 1 h -1 z m 6,0 h 1 v 1 h -1 z m -3,0 h 1 v 1 h -1 z M 10,14.5 h 1 v 1 h -1 z m 0,3 h 1 v 1 h -1 z m 0,3 h 1 v 1 h -1 z m 11,-6 h 1 v 1 h -1 z m 0,3 h 1 v 1 h -1 z m 0,3 h 1 v 1 h -1 z"
+       opacity=".4"
+       fill="url(#a)"
+       fill-rule="evenodd"
+       d="m404.57 524.8l7 7v-7z"
+       id="path6" />
+    <path
+       style="color:#232629;fill:#e0e0e0;fill-opacity:1;stroke:none"
+       d="M 11,12 V 24 H 21 V 12 Z m 3,1 h 4 a 2,2 0 0 1 2,2 v 1 a 1,1 0 1 0 0,2 v 2 l -1,1 h -6 l -1,-1 v -2 a 1,1 0 1 0 0,-2 v -1 a 2,2 0 0 1 2,-2 z m -2,9 h 4 v 1 h -4 z m 6,0 h 2 v 1 h -2 z"
        class="ColorScheme-Text"
-       id="path1"
-       sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+       id="path1-7"
        transform="translate(384.57,515.8)"
-       inkscape:label="path7" />
+       inkscape:label="path1" />
     <use
        fill="url(#b)"
        xlink:href="#c"
