@@ -19,9 +19,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="true"
-     inkscape:zoom="22.627417"
-     inkscape:cx="5.1486212"
-     inkscape:cy="10.761281"
+     inkscape:zoom="32"
+     inkscape:cx="10.40625"
+     inkscape:cy="11.875"
      inkscape:window-width="1920"
      inkscape:window-height="1008"
      inkscape:window-x="0"
@@ -54,9 +54,8 @@
       </style>
   </defs>
   <path
-     style="fill:currentColor;fill-opacity:1;stroke:none"
-     d="m 5.5,5.499995 v 11.00004 h 1 9 1 V 5.499995 h -1 -9 z m 1,1 h 9 v 9.00004 h -9 z m 0.5,10.5 h 1 v 2.00004 H 7 Z m 7,0 h 1 v 2.00004 h -1 z m -3.5,0 h 1 v 2.00004 h -1 z m -3.5,-14 h 1 v 2.00004 H 7 Z m 7,0 h 1 v 2.00004 h -1 z m -3.5,0 h 1 v 2.00004 h -1 z m 6.5,7.5 h 2 v 1.00004 h -2 z m 0,3.5 h 2 v 1.00004 h -2 z m 0,-7 h 2 v 1.00004 h -2 z m -14,3.5 h 2 v 1.00004 H 3 Z m 0,3.5 h 2 v 1.00004 H 3 Z m 0,-7 h 2 v 1.00004 H 3 Z"
      id="rect4211"
+     style="fill:currentColor;fill-opacity:1;stroke:none"
      class="ColorScheme-Text"
-     sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+     d="M 6 3 L 6 5 L 5 5 L 5 6 L 3 6 L 3 7 L 5 7 L 5 9 L 3 9 L 3 10 L 5 10 L 5 12 L 3 12 L 3 13 L 5 13 L 5 15 L 3 15 L 3 16 L 5 16 L 5 17 L 6 17 L 6 19 L 7 19 L 7 17 L 9 17 L 9 19 L 10 19 L 10 17 L 12 17 L 12 19 L 13 19 L 13 17 L 15 17 L 15 19 L 16 19 L 16 17 L 17 17 L 17 16 L 19 16 L 19 15 L 17 15 L 17 13 L 19 13 L 19 12 L 17 12 L 17 10 L 19 10 L 19 9 L 17 9 L 17 7 L 19 7 L 19 6 L 17 6 L 17 5 L 16 5 L 16 3 L 15 3 L 15 5 L 13 5 L 13 3 L 12 3 L 12 5 L 10 5 L 10 3 L 9 3 L 9 5 L 7 5 L 7 3 L 6 3 z M 6 6 L 16 6 L 16 16 L 6 16 L 6 6 z " />
 </svg>
