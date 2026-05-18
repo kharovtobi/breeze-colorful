@@ -5,7 +5,7 @@
    version="1.1"
    id="svg17"
    sodipodi:docname="flash.svg"
-   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -21,8 +21,8 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="11.313709"
-     inkscape:cx="-9.8994949"
-     inkscape:cy="31.377863"
+     inkscape:cx="4.0658638"
+     inkscape:cy="36.062444"
      inkscape:window-width="1920"
      inkscape:window-height="1008"
      inkscape:window-x="0"
@@ -83,21 +83,21 @@
     <linearGradient
        id="linearGradient4266">
       <stop
-         style="stop-color:#b41818;stop-opacity:1;"
+         style="stop-color:#e04646;stop-opacity:1;"
          offset="0.33979005"
          id="stop7" />
       <stop
-         style="stop-color:#e05e4c;stop-opacity:1"
+         style="stop-color:#a11717;stop-opacity:1;"
          offset="1"
          id="stop8" />
     </linearGradient>
     <linearGradient
        xlink:href="#linearGradient4266"
        id="linearGradient4272"
-       x1="35"
-       y1="44"
-       x2="19"
-       y2="3"
+       x1="3.9739819"
+       y1="4.0606608"
+       x2="43.787689"
+       y2="43.874367"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        xlink:href="#linearGradient4306"
@@ -185,10 +185,10 @@
        inkscape:collect="always"
        xlink:href="#linearGradient5"
        id="linearGradient6"
-       x1="27.315037"
-       y1="20.876692"
-       x2="44.788971"
-       y2="28.396864"
+       x1="27.223169"
+       y1="20.967257"
+       x2="37.175003"
+       y2="31.207409"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1.8488018,0,0,1.7967475,-24.096036,-32.98194)" />
     <linearGradient
