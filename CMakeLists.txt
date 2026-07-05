@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.29)
 
-set(KF_VERSION "6.28.0") # handled by release scripts
+set(KF_VERSION "6.29.0") # handled by release scripts
 project(BreezeIcons VERSION ${KF_VERSION})
 
 # Disallow in-source build
@@ -10,13 +10,12 @@ endif()
 
 # ECM setup
 include(FeatureSummary)
-find_package(ECM 6.27.0  NO_MODULE)
+find_package(ECM 6.28.0  NO_MODULE)
 set_package_properties(ECM PROPERTIES TYPE REQUIRED DESCRIPTION "Extra CMake Modules." URL "https://commits.kde.org/extra-cmake-modules")
 feature_summary(WHAT REQUIRED_PACKAGES_NOT_FOUND FATAL_ON_MISSING_REQUIRED_PACKAGES)
 
 set(CMAKE_MODULE_PATH ${ECM_MODULE_PATH} ${CMAKE_CURRENT_SOURCE_DIR}/cmake)
 
-include(ECMSetupVersion)
 include(KDEInstallDirs)
 include(KDECMakeSettings)
 include(KDEGitCommitHooks)
@@ -65,6 +64,7 @@ option(BINARY_ICONS_RESOURCE "Install Qt binary resource file containing breeze 
 option(WITH_ICONS_LIBRARY "Build the Breeze icons library" ON)
 
 if(WITH_ICONS_LIBRARY)
+    set(version_header "${CMAKE_CURRENT_BINARY_DIR}/icons/breezeicons_version.h")
     set(CMAKECONFIG_INSTALL_DIR "${KDE_INSTALL_CMAKEPACKAGEDIR}/KF6BreezeIcons")
 
     configure_package_config_file(
@@ -82,7 +82,7 @@ if(WITH_ICONS_LIBRARY)
 
     ecm_setup_version(PROJECT
       VARIABLE_PREFIX BREEZEICONS
-      VERSION_HEADER ${CMAKE_CURRENT_BINARY_DIR}/breezeicons_version.h
+      VERSION_HEADER ${version_header}
       PACKAGE_VERSION_FILE "${CMAKE_CURRENT_BINARY_DIR}/KF6BreezeIconsConfigVersion.cmake"
       SOVERSION 6)
 
@@ -92,7 +92,7 @@ if(WITH_ICONS_LIBRARY)
       NAMESPACE KF6::
     )
 
-    install(FILES ${CMAKE_CURRENT_BINARY_DIR}/breezeicons_version.h
+    install(FILES ${version_header}
       DESTINATION ${KDE_INSTALL_INCLUDEDIR_KF}/BreezeIcons COMPONENT Devel)
 endif()
 
