@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 22 22"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="audio-headphones.svg"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="true"
+     inkscape:zoom="22.627417"
+     inkscape:cx="-4.9497475"
+     inkscape:cy="12.109204"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14902"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs3051">
+    <style
+       type="text/css"
+       id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#232629;
+      }
+      </style>
+  </defs>
+  <path
+     style="fill:currentColor;fill-opacity:1;stroke:none"
+     d="m 15,17 v 2 h 1 l 0.503124,-0.503124 M 19,17 V 11 C 19,6.581722 15.418278,3 11,3 9.2909269,3 7.7070267,3.5359288 6.4071875,4.4488982 L 7.1347178,5.1630276 C 8.242313,4.4280981 9.5711627,4 11,4 c 3.865993,0 7,3.1340068 7,7 v 4 L 16,13 H 15 M 4.4097886,6.4633781 C 3.5206425,7.7525569 3,9.3154772 3,11 v 8 h 1 v -2 l 2,2 H 7 V 13 H 6 L 4,15 V 11 C 4,9.5952037 4.4138133,8.2870587 5.1261919,7.190813 Z"
+     class="ColorScheme-Text"
+     id="path1"
+     sodipodi:nodetypes="cccccssccssccccsccccccccscc" />
+  <path
+     d="M 3,3.7071068 3.7071067,3 19,18.292893 18.292893,19 Z"
+     style="color:#da4453;fill:currentColor"
+     id="path1-6" />
+</svg>
