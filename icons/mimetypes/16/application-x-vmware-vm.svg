@@ -6,7 +6,7 @@
    version="1.1"
    id="svg1"
    sodipodi:docname="application-x-vmware-vm.svg"
-   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="true"
-     inkscape:zoom="25.71875"
-     inkscape:cx="-12.306197"
-     inkscape:cy="8.9234508"
+     inkscape:zoom="36.371805"
+     inkscape:cx="7.9457151"
+     inkscape:cy="6.7909745"
      inkscape:window-width="1920"
      inkscape:window-height="1008"
      inkscape:window-x="0"
@@ -50,9 +50,9 @@
   <path
      fill="#6fc7e0"
      stroke-width="2"
-     d="m 5,1041.36 v 9 l 9,-10e-5 v -8.9999 m -3,-1 v -2 H 2 v 9 h 2 v -1 H 3 v -7 h 7 v 1 m -4,2 v 7 h 7 v -7 z"
+     d="m 5,1041.36 v 9 l 9,-10e-5 v -8.9999 z m 6,-1 v -2 H 2 v 9 h 2 v -1 H 3 v -7 h 7 v 1 z m -5,2 v 7 h 7 v -7 z"
      transform="translate(0,-1036.36)"
      id="path1"
-     sodipodi:nodetypes="ccccccccccccccccccc"
+     sodipodi:nodetypes="ccccccccccccccccccccc"
      style="fill-rule:evenodd" />
 </svg>
