@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.29)
+cmake_minimum_required(VERSION 3.30)
 
 set(KF_VERSION "6.31.0") # handled by release scripts
 project(BreezeIcons VERSION ${KF_VERSION})
@@ -27,7 +27,7 @@ include(ECMSetupVersion)
 include(ECMInstalledLibraryCheck)
 
 # Dependencies
-set(REQUIRED_QT_VERSION 6.9.0)
+set(REQUIRED_QT_VERSION 6.10.0)
 find_package(Qt6 ${REQUIRED_QT_VERSION} NO_MODULE REQUIRED COMPONENTS Core Gui)
 
 # Find Python 3
