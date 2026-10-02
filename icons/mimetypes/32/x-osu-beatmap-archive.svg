@@ -5,7 +5,7 @@
    height="32"
    id="svg13"
    sodipodi:docname="x-osu-beatmap-archive.svg"
-   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -20,16 +20,31 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     showgrid="false"
-     inkscape:zoom="8.8388348"
-     inkscape:cx="-16.857426"
-     inkscape:cy="17.423111"
+     showgrid="true"
+     inkscape:zoom="35.355339"
+     inkscape:cx="13.746156"
+     inkscape:cy="10.493465"
      inkscape:window-width="1920"
      inkscape:window-height="1008"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
   <defs
      id="defs5455">
     <linearGradient
@@ -37,7 +52,7 @@
        xlink:href="#linearGradient6251"
        id="linearGradient5849"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.48,0,0,0.40601922,362.65139,385.60552)"
+       gradientTransform="matrix(0.48,0,0,0.40601922,362.65139,383.60552)"
        y1="394.54437"
        x2="0"
        y2="335.43387" />
@@ -61,7 +76,7 @@
      id="layer1"
      transform="matrix(1 0 0 1 -384.57143 -515.798)">
     <rect
-       y="521.79797"
+       y="519.79846"
        x="388.57144"
        height="23.999989"
        width="23.999989"
@@ -81,8 +96,8 @@
     <rect
        width="24.00001"
        x="388.57144"
-       y="544.79797"
-       height="0.999974"
+       y="542.79846"
+       height="0.99997401"
        id="rect5839"
        mix-blend-mode="normal"
        solid-color="#000000"
@@ -98,7 +113,7 @@
     <rect
        width="23.999989"
        x="388.57144"
-       y="521.79797"
+       y="519.79846"
        height="1.00003"
        id="rect5841"
        mix-blend-mode="normal"
@@ -115,7 +130,7 @@
        shape-rendering="auto" />
     <path
        inkscape:connector-curvature="0"
-       d="m 404.57143,522.79809 v 1 h 1 v -1 z m 1,1 v 1 h 1 v -1 z m 0,1 h -1 v 1 h 1 z m 0,1 v 1 h 1 v -1 z m 0,1 h -1 v 1 h 1 z m 0,1 v 1 h 1 v -1 z m 0,1 h -1 v 0.56054 1.43946 h 2 v -1 h -1 z"
+       d="m 404.57143,520.79809 v 1 h 1 v -1 z m 1,1 v 1 h 1 v -1 z m 0,1 h -1 v 1 h 1 z m 0,1 v 1 h 1 v -1 z m 0,1 h -1 v 1 h 1 z m 0,1 v 1 h 1 v -1 z m 0,1 h -1 v 0.56054 1.43946 h 2 v -1 h -1 z"
        id="path5843"
        mix-blend-mode="normal"
        solid-color="#000000"
@@ -136,7 +151,7 @@
        width="24"
        height="24"
        x="388.57144"
-       y="521.79797"
+       y="519.79846"
        mix-blend-mode="normal"
        solid-color="#000000"
        color-interpolation-filters="linearRGB"
@@ -147,11 +162,12 @@
        color-interpolation="sRGB"
        solid-opacity="1"
        fill="url(#linearGradient5849)"
-       shape-rendering="auto" />
+       shape-rendering="auto"
+       style="fill:url(#linearGradient5849)" />
     <path
        opacity="0.75"
        fill="#ffffff"
-       d="m 393.07143,532.798 v 6.90083 c -0.24583,-0.1425 -0.52917,-0.23416 -0.83333,-0.23416 -0.92084,0 -1.66667,0.74583 -1.66667,1.66666 0,0.92084 0.74583,1.66667 1.66667,1.66667 0.92083,0 1.66666,-0.74583 1.66666,-1.66667 V 535.298 h 5.83334 v 3.5675 c -0.24584,-0.1425 -0.52917,-0.23417 -0.83334,-0.23417 -0.92083,0 -1.66666,0.74584 -1.66666,1.66667 0,0.92083 0.74583,1.66667 1.66666,1.66667 0.92084,0 1.66667,-0.74584 1.66667,-1.66667 v -7.5 z m 0.83333,0.83333 h 5.83334 v 0.83334 h -5.83334 z"
+       d="m 393.07143,530.798 v 6.90083 c -0.24583,-0.1425 -0.52917,-0.23416 -0.83333,-0.23416 -0.92084,0 -1.66667,0.74583 -1.66667,1.66666 0,0.92084 0.74583,1.66667 1.66667,1.66667 0.92083,0 1.66666,-0.74583 1.66666,-1.66667 V 533.298 h 5.83334 v 3.5675 c -0.24584,-0.1425 -0.52917,-0.23417 -0.83334,-0.23417 -0.92083,0 -1.66666,0.74584 -1.66666,1.66667 0,0.92083 0.74583,1.66667 1.66666,1.66667 0.92084,0 1.66667,-0.74584 1.66667,-1.66667 v -7.5 z m 0.83333,0.83333 h 5.83334 v 0.83334 h -5.83334 z"
        id="path3"
        style="stroke-width:0.833333" />
   </g>
