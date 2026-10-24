@@ -12,26 +12,28 @@ You can browse the icons on your system using Icon Explorer from the Plasma SDK.
 
 - [x]  [Restored 3rd Party Icons](https://invent.kde.org/frameworks/breeze-icons/-/merge_requests/477/diffs)
 
-- [x] [Add Breeze Plus](https://github.com/mjkim0727/breeze-plus)
+- [x]  [Add Breeze Plus](https://github.com/mjkim0727/breeze-plus)
 
-- []  [Add Breeze Extended](https://github.com/mjkim0727/breeze-extended)
+- [ ]  [Add Breeze Extended](https://github.com/mjkim0727/breeze-extended)
 
-- []  [Add Breeze Extra](https://www.gnome-look.org/p/1184525)
+- [ ]  [Add Breeze Extra](https://www.gnome-look.org/p/1184525)
 
 - [x]  Add VMware icons
 
 - [x]  Add qBittorrent icons
 
-- [x] Add Flash icons
+- [x]  Add Flash icons
 
 - [x]  [Add osu! mimetypes](https://osu.ppy.sh/wiki/en/Client/File_formats#list-of-file-formats)
 
 - [x]  [Add KBackup icons](https://invent.kde.org/utilities/kbackup/-/tree/master/src/pics)
 
-- []  Add main Java icons
+- [ ]  Add main Java icons
 
-- []  Add new/change mimetypes for existing ones
+- [ ]  Add new/change mimetypes for existing ones
 
-- []  Add mimetypes for inodes
+- [ ]  Add mimetypes for inodes
+
+- [ ] Add/Update Inkscape icons
 
 and more I think?
